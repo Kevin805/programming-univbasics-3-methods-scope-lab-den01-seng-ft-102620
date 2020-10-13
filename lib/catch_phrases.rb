@@ -9,3 +9,5 @@ def toadstool
 end
 
 def catch_phrase
+  puts "It's Dangerous To Go Alone! Take This."
+end
