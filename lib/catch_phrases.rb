@@ -7,7 +7,6 @@ end
 def toadstool
   puts $status
 end
+def link
+  link = "It's dangerous out there
 
-def catch_phrase
-  puts "It's Dangerous To Go Alone! Take This."
-end
